@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "696425462001",
+    "firebase_url": "https://notesbook1-default-rtdb.firebaseio.com",
+    "project_id": "notesbook1",
+    "storage_bucket": "notesbook1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:696425462001:android:ee029e027a875ec2959150",
+        "android_client_info": {
+          "package_name": "com.example.notesbook_"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "696425462001-invvvjut19386vtvhekvvh1lo5d3g50c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUTI-odA-ugtE2oNl1WTaCiIpcG9iqrdQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "696425462001-invvvjut19386vtvhekvvh1lo5d3g50c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
